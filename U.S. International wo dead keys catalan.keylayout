@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.0.0.22 on 2015-09-24 at 19:03 (CEST)-->
+<!--Last edited by Ukelele version 3.0.0.22 on 2015-09-24 at 23:46 (CEST)-->
 <keyboard group="126" id="2" maxout="1" name="U.S. International w/o dead keys catalan">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -1065,7 +1065,6 @@
 		</action>
 		<action id="15">
 			<when output="i" state="none"/>
-			<when output="ì" state="Dead Key State 0"/>
 			<when output="í" state="s1"/>
 			<when output="ì" state="s2"/>
 			<when output="î" state="s3"/>
@@ -1077,6 +1076,7 @@
 		</action>
 		<action id="17">
 			<when output="o" state="none"/>
+			<when output="ò" state="Dead Key State 0"/>
 			<when output="ó" state="s1"/>
 			<when output="ò" state="s2"/>
 			<when output="ô" state="s3"/>
