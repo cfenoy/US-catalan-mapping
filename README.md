@@ -12,3 +12,5 @@ To write `é,í,ó,ú` simply type `Option + A`
 To write `ï,ú` simply type `Option + J` or `Option + U`
 
 To write `à,è,ò` type ``Option + ` `` and then the letter 
+
+To write `l·l`  type ``Option + L`
