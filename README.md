@@ -13,4 +13,4 @@ To write `ï,ú` simply type `Option + J` or `Option + U`
 
 To write `à,è,ò` type ``Option + ` `` and then the letter 
 
-To write `l·l`  type ``Option + L`
+To write `l·l`  type `Option + L`
